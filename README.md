@@ -1,8 +1,8 @@
-Crypto Service API (Assaignment for interview process)
+## Crypto Service API
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This repository has been created for an assignment on the interview process.
 
 ## Installation
 
